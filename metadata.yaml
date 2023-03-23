@@ -1,0 +1,27 @@
+_repo: X-mas-Sketches-from-the-Dartmouth-Literary-Monthly_70291
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Grover, Edwin Osgood
+    gutenberg_agent_id: '55688'
+    url: http://www.gutenberg.org/2009/agents/55688
+description: ''
+gutenberg_issued: '2023-03-15'
+identifiers:
+  gutenberg: '70291'
+language: en
+pgterms:marc904: https://hdl.handle.net/2027/osu.32435069239614
+pgterms:marc905: 20220120050054grover
+pgterms:marc906: '1893'
+pgterms:marc907: US
+production_note: Bob Taylor, Tim Lindell and the Online Distributed Proofreading Team
+  at https://www.pgdp.net (This book was produced from images made available by the
+  HathiTrust Digital Library.)
+publication_note: '  $aUnited States :$bRepublican Press Association, $c1893.'
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- GITenberg
+title: X-mas Sketches from the Dartmouth Literary Monthly
+url: http://www.gutenberg.org/ebooks/70291
